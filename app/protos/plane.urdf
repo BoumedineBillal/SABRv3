@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<robot name="C:/Users/orani/bilel/a_miv/a_miv/m1s2/rnna/tp/project/SABRv3/app/protos/plane.urdf" xmlns:xacro="http://ros.org/wiki/xacro">
+  <link name="base_link">
+    <visual>
+      <origin xyz="0 0 -0.025" rpy="0 0 0"/>
+      <geometry>
+        <box size="1000 600 0.05"/>
+      </geometry>
+    </visual>
+    <collision>
+      <origin xyz="0 0 -0.025" rpy="0 0 0"/>
+      <geometry>
+        <box size="1000 600 0.05"/>
+      </geometry>
+    </collision>
+  </link>
+</robot>
