@@ -27,7 +27,7 @@ A demonstration video of this application can be found in `app/video/app.mp4`, s
 
 ## Demo Video
 
-[Watch the demo video](https://github.com/BoumedineBillal/SABRv3/raw/master/app/video/app.mp4)
+![Demo](app/video/app.gif)
 
 
 
