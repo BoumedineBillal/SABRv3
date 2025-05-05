@@ -25,7 +25,7 @@ As an extension of this project, we've created an application that uses our hand
 
 A demonstration video of this application can be found in `app/video/app.mp4`, showcasing how our pruned model performs in a practical real-world scenario.
 
-## Demo Video
+## 🔔 Demo Video (86MB GIF - may take time to load) 🔔
 
 ![Demo](app/video/app.gif)
 
