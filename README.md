@@ -6,7 +6,7 @@
 - **University:** USTHB
 - **Students:**
   - Boumedine Billal (181837068863)
-  - Addel Tolbat (212131030403)
+  - Tolbat Adel (212131030403)
 
 > ### 🔍 **IMPORTANT: Refer to the Implementation Notebook**
 > 
