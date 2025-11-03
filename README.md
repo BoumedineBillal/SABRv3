@@ -27,7 +27,7 @@ A demonstration video of this application can be found in `app/video/app.mp4`, s
 
 ## 🔔 Demo Video (86MB GIF - may take time to load) 🔔
 
-![Demo](app/video/app.gif)
+![Demo](app/video/app1.gif)
 
 
 
